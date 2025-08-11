@@ -1,0 +1,11 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar la carpeta de dependencias (si usas Composer o similares)
+vendor/
+
+# Ignorar archivos de configuración locales
+.env
+
+# Ignorar directorios de IDEs (como PhpStorm)
+.idea/
